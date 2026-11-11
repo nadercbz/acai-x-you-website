@@ -1,0 +1,1 @@
+import{l as e,v as t}from"./data-ihkDEiBD.js";import{n,r}from"./gemeinsam-CudwjxmY.js";r(),n(`.recht [data-mail]`).forEach(t=>t.textContent=e.mail),t.timeline().from(`.recht > .label, .recht > h1`,{y:30,opacity:0,duration:.9,stagger:.1,ease:`power3.out`}).from(`.nav > *`,{y:-20,opacity:0,duration:.8,stagger:.08},.1);
